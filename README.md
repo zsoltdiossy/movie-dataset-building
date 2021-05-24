@@ -17,3 +17,8 @@ Packages used:
 List of Disney movies: https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films
 
 API: https://omdbapi.com/
+
+## Files
+ - Disney Dataset Building.ipynb / code
+ - movie_data_cleaned.json & movie_data_cleaned.pickle / partially cleaned and finished datasets
+ - movie_data_json.json & movie_data_jcsv.csv / final datasets
